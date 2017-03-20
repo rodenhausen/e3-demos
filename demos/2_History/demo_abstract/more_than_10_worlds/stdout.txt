@@ -1,1 +1,0 @@
-There are less than or equal to 10 worlds. In fact, there are 2. The tap is ambiguous.
