@@ -1,0 +1,2 @@
+Cannot determine if there are more than 2 worlds. The tap is not consistent
+There are less than or equal to 2 worlds. In fact, there are 0. The tap is ambiguous.
