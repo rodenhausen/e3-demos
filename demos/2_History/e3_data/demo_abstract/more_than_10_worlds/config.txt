@@ -18,4 +18,4 @@ reasoning:
   repairMethod: topdown
 sharing:
   stateGitRepo: null
-  workspaceGitRepo: null
+  workspaceGitRepo: http://github.com/rodenhausen/e3-demos.git
